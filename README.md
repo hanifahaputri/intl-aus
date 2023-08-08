@@ -7,7 +7,7 @@ This data analysis and visualization report aims to provide insights into the de
 
 ## Methods
 ### Data Source & Scope
-The analysis utilizes two datasets: studentPublic.csv and nationalitySummary.csv obtained from the Australian Government's Department of Education website. The data cleaning process reveals no null values, misspellings, or duplicated entries. <u>Python's libraries, such as Pandas, Matplotlib, Plotly, Seaborn, and Squarify</u>, are employed for data analysis and visualization.
+The analysis utilizes two datasets: studentPublic.csv and nationalitySummary.csv obtained from the Australian Government's Department of Education website. The data cleaning process reveals no null values, misspellings, or duplicated entries. <ins>Python's libraries, such as Pandas, Matplotlib, Plotly, Seaborn, and Squarify</ins>, are employed for data analysis and visualization.
 
 ### Methodology
 The project is implemented in a Jupyter Notebook, leveraging Python for its flexibility and rich visualization capabilities. The code and visualizations can be accessed on the GitHub repository.
